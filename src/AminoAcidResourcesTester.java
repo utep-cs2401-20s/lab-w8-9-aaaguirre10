@@ -1,10 +1,7 @@
-import static org.junit.jupiter.api.Assertions.*;
-import java.util.concurrent.TimeUnit;
-
 import org.junit.jupiter.api.Test;
 
 class AminoAcidResourcesTester{
-
+//commit
   @Test
   public void allCodons(){
     char[] rna = {'A','C','U','G'};
