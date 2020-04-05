@@ -239,4 +239,4 @@ class AminoAcidLL{
     }
     return inList;
   }
-}
+}// EDIT: THIS TO COMMIT HW
